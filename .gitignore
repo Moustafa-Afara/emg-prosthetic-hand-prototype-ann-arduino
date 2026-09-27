@@ -1,0 +1,12 @@
+# data and models are not committed
+EMG_data_for_gestures-master/
+*.zip
+*.joblib
+build-*/
+*.hex
+*.elf
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
